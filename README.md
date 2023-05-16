@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Rahman 👋
+### I'm Fullstack Developer
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thxrhmn&theme=tokyonight)
 
