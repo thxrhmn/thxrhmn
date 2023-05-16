@@ -24,6 +24,11 @@ I love anything about technology, and I love trying new things
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 📈 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thxrhmn&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thxrhmn&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thxrhmn&theme=tokyonight)
+
 
 <!--
 **thxrhmn/thxrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
