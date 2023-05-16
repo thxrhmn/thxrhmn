@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxrhmn&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thxrhmn&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thxrhmn&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thxrhmn&theme=tokyonight)
 
 <!--
 **thxrhmn/thxrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
