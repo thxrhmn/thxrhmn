@@ -1,55 +1,45 @@
-Welcome to my GitHub profile! I'm Rahman, a fullstack developer with a diverse skill set in various programming languages, frameworks, and tools. Below is an overview of my skills and expertise.
+# Rahman Muhaemin  
 
-## Skills
-
-### Programming Languages
-- **JavaScript**
-- **Golang**
-- **Python**
-
-### Libraries / Frameworks
-- **React & Native**
-- **Svelte & Kit**
-- **NextJS**
-- **ExpressJS**
-- **Gin**
-- **Fiber**
-- **Echo**
-- **Flask**
-- **FastAPI**
-
-### CSS Frameworks
-- **Tailwind CSS**
-- **Bootstrap**
-- **Bulma**
-- **SASS**
-
-### Databases
-- **MySQL**
-- **PostgreSQL**
-- **SQLite**
-- **MongoDB**
-- **Redis**
-
-### Automation Tools
-- **BeautifulSoup**
-- **Selenium**
-- **Playwright**
-- **Puppeteer**
-- **Cheerio**
-- **Goquery**
-- **Gocolly**
-- **Gorod**
-
-### DevOps Tools
-- **Docker**
-- **Kafka**
-- **Jenkins**
-
-## Contact
-
-Feel free to reach out to me via [rahmanmuhaemin@gmail.com](mailto:rahmanmuhaemin@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rahman-muhaemin).
+👋 Hi there! I'm Rahman, a fullstack developer passionate about building efficient and scalable applications. I work with various technologies across the stack, from frontend to backend, automation, and DevOps.  
 
 ---
 
-Thank you for visiting my profile!
+## 🛠️ Tech Stack  
+
+### 🖥️ Programming Languages  
+- JavaScript  
+- Golang  
+- Python  
+
+### 🌐 Frontend  
+- React & React Native  
+- Svelte & SvelteKit  
+- Next.js  
+
+### ⚙️ Backend  
+- Express.js  
+- Gin, Fiber, Echo (Go)  
+- Flask, FastAPI (Python)  
+
+### 🗄️ Databases  
+- MySQL, PostgreSQL, SQLite  
+- MongoDB, Redis  
+
+### 🤖 Automation & Web Scraping  
+- Selenium, Playwright, Puppeteer  
+- BeautifulSoup, Cheerio  
+- Gocolly, Goquery, Gorod  
+
+### 🚀 DevOps  
+- Docker  
+- Kafka  
+- Jenkins  
+
+---
+
+## 📬 Get in Touch  
+
+📧 Email: [rahmanmuhaemin@gmail.com](mailto:rahmanmuhaemin@gmail.com)  
+💼 LinkedIn: [Rahman Muhaemin](https://www.linkedin.com/in/rahman-muhaemin)  
+
+Thanks for visiting my profile! 🚀  
